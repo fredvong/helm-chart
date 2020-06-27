@@ -3,12 +3,12 @@ entries:
   whereabouts:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-27T11:06:29.230791-07:00"
+    created: "2020-06-27T11:09:57.735381-07:00"
     description: whereabouts
     digest: fc15dcc91d05846e44700ddc763c4e2232cb197e3a1ea31579975a8de65e089c
     name: whereabouts
     type: application
     urls:
-    - https://fredvong.github.io/fredvong/whereabouts-0.1.0.tgz
+    - https://fredvong.github.io/helm-chart/whereabouts-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-27T11:06:29.227247-07:00"
+generated: "2020-06-27T11:09:57.732409-07:00"
